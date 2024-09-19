@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Hazmi
-- 👀 I’m interested in Web developer
-- 🌱 I’m currently learning Build Website
-- 💞️ I’m looking to collaborate on Youtube And Twitter
-- 📫 How to reach me Contact Me On Twitter twitter.com/mhazmi__
+Hi there 👋, I'm Hazmi!
+💼 Business Enthusiast | Currently diving into web development
+🌱 Passionate about building websites and exploring new tech
+🎥 Looking to collaborate on YouTube and Twitter for engaging content
+🤝 Experienced in Customer Service with 3 months of freelance work for an SMM app on the Play Store
+📫 Reach me on Twitter: @mhazmi__
+Let's connect and create something amazing together!
 
-<!---
-Mhazmii/Mhazmii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
