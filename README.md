@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Hazmi!
 
-- 💼 **Business Enthusiast** | Currently diving into web development
+- 💼 **Business Enthusiast** | Currently diving Traders and business enthusiasts
 - 🌱 Passionate about **building websites** and exploring new tech
 - 🎥 Looking to collaborate on **Tiktok** and **Instagram** for engaging content
 - 🤝 Experienced in **Customer Service** with 3 months of freelance work for an SMM app on the Play Store
