@@ -1,6 +1,3 @@
-Here's a draft for your GitHub bio:
-
----
 
 ### Hi there 👋, I'm Hazmi!
 
